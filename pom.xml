@@ -14,7 +14,7 @@
 	<name>beerapitest</name>
 	<description>Testes unitários para validar uma api rest de estoques de cerveja</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

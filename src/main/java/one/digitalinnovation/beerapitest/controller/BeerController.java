@@ -4,6 +4,7 @@ package one.digitalinnovation.beerapitest.controller;
 import lombok.AllArgsConstructor;
 import one.digitalinnovation.beerapitest.dto.BeerDTO;
 import one.digitalinnovation.beerapitest.dto.QuantityDTO;
+import one.digitalinnovation.beerapitest.entity.Beer;
 import one.digitalinnovation.beerapitest.exception.BeerAlreadyRegisteredException;
 import one.digitalinnovation.beerapitest.exception.BeerNotFoundException;
 import one.digitalinnovation.beerapitest.exception.BeerStockExceededException;
